@@ -54,7 +54,7 @@ Opportunity exists if:
 
 ### Prerequisites
 - Java 11 or higher
-- Maven or Gradle (optional, for dependencies)
+- Maven
 
 ### Expected Output
 
@@ -81,4 +81,3 @@ Tests cover:
 - Arbitrage detection (both directions)
 - Order cancellation
 - Data validation
-- Edge cases
